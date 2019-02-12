@@ -1,0 +1,29 @@
+.container{
+    display: grid;
+    grid-template-areas:
+            "main" "main"
+            "header" "main";
+}
+header{
+    background: url("Ring.png") no-repeat;
+    background-position: center;
+    color: #24ffeb;
+    /*background-color: #111111;*/
+    text-align: center;
+    margin-left: fill;
+    margin-right: fill;
+    font-size: xx-large;
+}
+main{
+    color: black;
+    background-color: aqua;
+    float: right;
+
+}
+a{
+    color: #24ffeb;
+    font-size: xx-large;
+}
+body{
+    background-color: black;
+}
