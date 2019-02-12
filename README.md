@@ -4,6 +4,8 @@
 
 ### Due Date: Monday at 8am
 
+Summit twice a day everyday
+
 ### Aesthetics (16 pts)
 Use HTML, CSS, and JavaScript to make your portfolio aesthetically pleasing.
 
