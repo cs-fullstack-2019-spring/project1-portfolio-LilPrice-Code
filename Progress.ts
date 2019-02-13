@@ -12,3 +12,7 @@
 //Morning Class
 //Added Tic-tac-toe Game into Projects page.
 //Added Options for Game.
+
+//Afternoon Class
+//Created new csses for different pages
+//Updated Contact and Home Page
