@@ -30,7 +30,39 @@ body{
 }
 div{
     font-size: x-large;
+    border-bottom: 5px solid black;
 }
 h1{
     font-size: 50px;
+
+}
+td {
+    text-align: center;
+    font-size: 85px;
+    width: 100px;
+    height:100px;
+    color: black;
+}
+
+.vertical{
+    border-left:1px solid black;
+    border-right:1px solid black;
+}
+
+.horizontal{
+    border-bottom:1px solid black;
+    border-top:1px solid black;
+}
+
+h2{
+    text-align: center
+}
+
+
+table{ margin: auto;
+}
+button{
+    background-color: #24ffeb;
+    border: 1px solid black;
+    font-size: x-large;
 }
