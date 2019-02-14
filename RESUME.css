@@ -37,3 +37,15 @@ h1{
     color: #24ffeb;
     font-size: 50px;
 }
+button{
+    color: #24ffeb;
+    background-color: black;
+    border: 1px solid #24ffeb;
+    font-size: 50px;
+    text-align: center;
+    align-content: center;
+}
+button[type=button]:hover{
+    background-color: #24ffeb;
+    color: black;
+}

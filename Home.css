@@ -15,7 +15,10 @@ header{
     font-size: xx-large;
 }
 main{
-    color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(black, #24ffeb);
+    color: #24ffeb;
     background-color: aqua;
     float: right;
     margin-right: fill;
