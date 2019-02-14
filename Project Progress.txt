@@ -1,0 +1,30 @@
+Feb. 12, 2019
+
+Morning Class
+Found a layout to work with.
+
+Afternoon Class
+Setting up the page layout for all pages.
+
+
+Feb. 13, 2019
+
+Morning Class
+Added Tic-tac-toe Game into Projects page.
+Added Options for Game.
+
+Afternoon Class
+Created new csses for different pages
+Updated Contact and Home Page
+
+Feb. 14 ,2019
+
+Morning Class
+Added new Page Layouts for all Pages.
+Updated Skills and Resume Pages.
+
+Afternoon Class
+Updated Contact Page
+Updated About Me Page
+Created new layout for About Me
+Removed Education Page

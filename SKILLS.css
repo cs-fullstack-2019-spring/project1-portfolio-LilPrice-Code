@@ -5,9 +5,9 @@
             "header" "main";
 }
 header{
-    background: url("Ring.png") no-repeat;
+    background-color: #24ffeb;
     background-position: center;
-    color: #24ffeb;
+    color: black;
     /*background-color: #111111;*/
     text-align: center;
     margin-left: fill;
@@ -15,21 +15,21 @@ header{
     font-size: xx-large;
 }
 main{
-    /*background: url("code.jpg");*/
+    background: url("halo.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-image: linear-gradient(black, #24ffeb);
     color: #24ffeb;
     float: right;
     margin-right: fill;
     margin-left: fill;
 }
 a{
-    color: #24ffeb;
+    color: black;
     font-size: xx-large;
 }
 body{
-    background-color: black;
+    background: url("Ring.png") no-repeat;
+    background-position: center;
 }
 div{
     font-size: x-large;

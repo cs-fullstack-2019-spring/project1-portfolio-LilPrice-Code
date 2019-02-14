@@ -5,9 +5,9 @@
             "header" "main";
 }
 header{
-    background: url("Ring.png") no-repeat;
+    background-color: #24ffeb;
     background-position: center;
-    color: #24ffeb;
+    color: black;
     /*background-color: #111111;*/
     text-align: center;
     margin-left: fill;
@@ -15,18 +15,21 @@ header{
     font-size: xx-large;
 }
 main{
-    color: black;
-    background-color: aqua;
+    background: url("halo.jpg");
+    background-position: fill;
+    background-repeat: no-repeat;
+    color: #24ffeb;
     float: right;
     margin-right: fill;
     margin-left: fill;
 }
 a{
-    color: #24ffeb;
+    color: black;
     font-size: xx-large;
 }
 body{
-    background-color: black;
+    background: url("Ring.png") no-repeat;
+    background-position: center;
 }
 div{
     font-size: x-large;
@@ -40,39 +43,12 @@ h1{
     font-size: 50px;
 }
 p{
-    border: 1px solid black;
+    border: 1px solid #24ffeb;
     margin-left: 200px;
     margin-right: 200px;
 }
-form{
-    align-content: center;
-}
 
-input[type=text], select, textarea {
-    width: 300px;
-    padding: 12px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    box-sizing: border-box;
-    margin-top: 6px;
-    margin-bottom: 16px;
-    resize: vertical;
-}
 
-input[type=submit] {
-    background-color: black;
-    color: white;
-    padding: 12px 20px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-}
-
-input[type=submit]:hover {
-    background-color: #45a049;
-}
-
-.Submit{
-    border-radius: 5px;
-    padding: 20px;
+iframe{
+    text-align: center;
 }

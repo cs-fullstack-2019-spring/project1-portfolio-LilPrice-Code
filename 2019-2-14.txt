@@ -3,3 +3,9 @@ Feb. 14 ,2019
 Morning Class
 Added new Page Layouts for all Pages.
 Updated Skills and Resume Pages.
+
+Afternoon Class
+Updated Contact Page
+Updated About Me Page
+Created new layout for About Me
+Removed Education Page
