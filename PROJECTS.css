@@ -16,7 +16,7 @@ header{
 }
 main{
     color: black;
-    background-color: aqua;
+    background-color: white;
     float: right;
     margin-right: fill;
     margin-left: fill;
@@ -62,7 +62,11 @@ h2{
 table{ margin: auto;
 }
 button{
-    background-color: #24ffeb;
+    background-color: white;
     border: 1px solid black;
     font-size: x-large;
+}
+p{
+    color: white;
+    font-size: 30px;
 }

@@ -28,7 +28,7 @@ for (var i = 0; i < gameSpaces.length; i++) {
 reset.onclick = function () {
     console.log("Hey");
     while(1===1) {
-        var command = prompt("What do you want to do!\n Enter the number.\n 1:Reset the board 2:Reset the Score \n 3:View Score 4:Quit");
+        var command = prompt("What do you want to do!\n Enter the number.\n 1:Reset the board \n 2:Reset the Score \n 3:View Score \n 4:Quit");
         if (parseInt(command) === 1) {
             gameSpaces[0].innerHTML = "";
             gameSpaces[1].innerHTML = "";

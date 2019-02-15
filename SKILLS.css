@@ -15,9 +15,10 @@ header{
     font-size: xx-large;
 }
 main{
-    background: url("halo.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
+    /*background: url("halo.jpg");*/
+    /*background-position: center;*/
+    /*background-repeat: no-repeat;*/
+    background-color: black;
     color: #24ffeb;
     float: right;
     margin-right: fill;
@@ -39,9 +40,16 @@ h1{
 }
 h2
 {
-    color: #24ffeb;
+    color: black;
     text-align: center;
     font-size: xx-large;
 }
 img{
+}
+.text{
+    color: #24ffeb;
+}
+td{
+    text-align: center;
+    background-color: white;
 }

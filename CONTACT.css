@@ -15,9 +15,10 @@ header{
     font-size: xx-large;
 }
 main{
-    background: url("halo.jpg");
-    background-position: fill;
-    background-repeat: no-repeat;
+    background-color: black;
+    /*background: url("halo.jpg");*/
+    /*background-position: fill;*/
+    /*background-repeat: no-repeat;*/
     color: #24ffeb;
     float: right;
     margin-right: fill;
@@ -50,5 +51,5 @@ p{
 
 
 iframe{
-    text-align: center;
+    margin: auto;
 }

@@ -1,0 +1,10 @@
+Feb. 15, 2019
+
+Morning Class:
+Removed Projects page
+Updated Skills Page
+Skills page is now known as Skills/Project Page
+Fixed Contact Info Box Alignment
+Add link to projects on Skills/Project page
+Project on Skills/Project page have a back button
+Readjusted page Layouts
