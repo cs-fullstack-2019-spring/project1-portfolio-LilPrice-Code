@@ -52,3 +52,11 @@ p{
     text-align: center;
     font-size: 25px;
 }
+footer{
+    background-color: #24ffeb;
+}
+
+.foot{
+    font-size: 20px;
+    text-align: left;
+}

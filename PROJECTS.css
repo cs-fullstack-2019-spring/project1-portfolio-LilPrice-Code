@@ -5,9 +5,10 @@
             "header" "main";
 }
 header{
-    background: url("Ring.png") no-repeat;
-    background-position: center;
-    color: #24ffeb;
+    /*background: url("Ring.png") no-repeat;*/
+    /*background-position: center;*/
+    color: black;
+    background-color: #24ffeb;
     /*background-color: #111111;*/
     text-align: center;
     margin-left: fill;
@@ -16,17 +17,18 @@ header{
 }
 main{
     color: black;
-    background-color: white;
+    background-color: black;
     float: right;
     margin-right: fill;
     margin-left: fill;
 }
 a{
-    color: #24ffeb;
+    color: black;
     font-size: xx-large;
 }
 body{
-    background-color: black;
+    background: url("Ring.png") no-repeat;
+    background-position: center;
 }
 div{
     font-size: x-large;
@@ -41,20 +43,21 @@ td {
     font-size: 85px;
     width: 100px;
     height:100px;
-    color: black;
+    color: #24ffeb;
 }
 
 .vertical{
-    border-left:1px solid black;
-    border-right:1px solid black;
+    border-left:1px solid #24ffeb;
+    border-right:1px solid #24ffeb;
 }
 
 .horizontal{
-    border-bottom:1px solid black;
-    border-top:1px solid black;
+    border-bottom:1px solid #24ffeb;
+    border-top:1px solid #24ffeb;
 }
 
 h2{
+    color: #24ffeb;
     text-align: center
 }
 
@@ -62,11 +65,20 @@ h2{
 table{ margin: auto;
 }
 button{
-    background-color: white;
-    border: 1px solid black;
+    color: #24ffeb;
+    background-color: black;
+    border: 1px solid #24ffeb;
     font-size: x-large;
 }
 p{
-    color: white;
+    color: black;
     font-size: 30px;
+}
+footer{
+    background-color: #24ffeb;
+}
+
+.foot{
+    font-size: 20px;
+    text-align: left;
 }

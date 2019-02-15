@@ -44,4 +44,19 @@ h2{
     text-align: center;
     font-size: 100px;
 }
+.left{
+    background-color: black;
+    float:left;
+}
+.right{
+    background-color: black;
+    float: right;
+}
+footer{
+    background-color: #24ffeb;
+}
 
+.foot{
+    font-size: 20px;
+    text-align: left;
+}

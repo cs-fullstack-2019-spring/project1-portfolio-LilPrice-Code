@@ -15,10 +15,10 @@ header{
     font-size: xx-large;
 }
 main{
-    background-color: black;
     /*background: url("halo.jpg");*/
-    /*background-position: fill;*/
+    /*background-position: center;*/
     /*background-repeat: no-repeat;*/
+    background-color: black;
     color: #24ffeb;
     float: right;
     margin-right: fill;
@@ -32,25 +32,24 @@ body{
     background: url("Ring.png") no-repeat;
     background-position: center;
 }
+
 div{
     font-size: x-large;
+}
+h1{
+    color: #24ffeb;
+    font-size: 50px;
+}
+td{
     text-align: center;
-
 }
 h2{
     text-align: center;
 }
-h1{
-    font-size: 50px;
+.text{
+    font-size: 40px;
 }
-p{
-    border: 1px solid #24ffeb;
-    margin-left: 200px;
-    margin-right: 200px;
-}
-
-
-iframe{
+table{
     margin: auto;
 }
 footer{

@@ -8,3 +8,11 @@ Fixed Contact Info Box Alignment
 Add link to projects on Skills/Project page
 Project on Skills/Project page have a back button
 Readjusted page Layouts
+
+Afternoon Class:
+Updated Resume Page
+Updated Weekly Reflection Page
+Updated all Page layouts
+Updated Tic-Tac-Toe Game Page
+Updated Home Page
+Add a Footer to all Pages

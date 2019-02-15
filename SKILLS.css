@@ -51,5 +51,20 @@ img{
 }
 td{
     text-align: center;
-    background-color: white;
+    background-color: #24ffeb;
+
+}
+h6{
+    color: black;
+}
+table{
+    margin: auto;
+}
+footer{
+    background-color: #24ffeb;
+}
+
+.foot{
+    font-size: 20px;
+    text-align: left;
 }

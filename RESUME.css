@@ -5,9 +5,9 @@
             "header" "main";
 }
 header{
-    background: url("Ring.png") no-repeat;
+    background-color: #24ffeb;
     background-position: center;
-    color: #24ffeb;
+    color: black;
     /*background-color: #111111;*/
     text-align: center;
     margin-left: fill;
@@ -15,20 +15,22 @@ header{
     font-size: xx-large;
 }
 main{
-    background-position: center;
-    background-repeat: no-repeat;
-    background-image: linear-gradient(black, #24ffeb);
-    color: black;
+    /*background: url("halo.jpg");*/
+    /*background-position: center;*/
+    /*background-repeat: no-repeat;*/
+    background-color: black;
+    color: #24ffeb;
     float: right;
     margin-right: fill;
     margin-left: fill;
 }
 a{
-    color: #24ffeb;
+    color: black;
     font-size: xx-large;
 }
 body{
-    background-color: black;
+    background: url("Ring.png") no-repeat;
+    background-position: center;
 }
 div{
     font-size: x-large;
@@ -48,4 +50,18 @@ button{
 button[type=button]:hover{
     background-color: #24ffeb;
     color: black;
+}
+h2{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+footer{
+    background-color: #24ffeb;
+}
+
+.foot{
+    font-size: 20px;
+    text-align: left;
 }
