@@ -5,6 +5,7 @@ Found a layout to work with.
 
 Afternoon Class:
 Setting up the page layout for all pages.
+
 ==================================================================================
 Feb. 13, 2019
 
@@ -15,6 +16,7 @@ Added Options for Game.
 Afternoon Class:
 Created new csses for different pages
 Updated Contact and Home Page
+
 ==================================================================================
 Feb. 14, 2019
 
@@ -27,6 +29,7 @@ Updated Contact Page
 Updated About Me Page
 Created new layout for About Me
 Removed Education Page
+
 ==================================================================================
 Feb. 15, 2019
 
@@ -48,9 +51,14 @@ Updated Home Page
 Add a Footer to all Pages
 
 ==================================================================================
-Feb. 18 2019
+Feb. 16,17,18 2019
 
 After Class:
 Updated Weekly Reflection Page
 Updated Home Page
 Finalized 1.0 Website
+
+==================================================================================
+Feb 18, 2019
+
+Morning Class:
