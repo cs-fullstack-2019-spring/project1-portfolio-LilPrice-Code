@@ -3,21 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="41ccfa84-7a6a-4b40-85ac-f3207daaae4a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019-2-15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2019-2-15.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ABOUTME.css" beforeDir="false" afterPath="$PROJECT_DIR$/ABOUTME.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutMe.html" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CONTACT.css" beforeDir="false" afterPath="$PROJECT_DIR$/CONTACT.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/Home.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PROJECTS.css" beforeDir="false" afterPath="$PROJECT_DIR$/PROJECTS.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project Progress.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Project Progress.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RESUME.css" beforeDir="false" afterPath="$PROJECT_DIR$/RESUME.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/Resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SKILLS.css" beforeDir="false" afterPath="$PROJECT_DIR$/SKILLS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/Skills.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tic tac toe game.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tic tac toe game.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tic-Tac-Toe.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tic-Tac-Toe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEKLY.css" beforeDir="false" afterPath="$PROJECT_DIR$/WEEKLY.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WeeklyRef.html" beforeDir="false" afterPath="$PROJECT_DIR$/WeeklyRef.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,11 +30,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project Progress.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="41" selection-start-line="41" selection-end-line="47" selection-end-column="25" />
+            <state relative-caret-position="599">
+              <caret line="55" column="21" lean-forward="true" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Home.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -55,6 +53,33 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WeeklyRef.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WEEKLY.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -91,22 +116,22 @@
         <option value="$PROJECT_DIR$/Projects.html" />
         <option value="$PROJECT_DIR$/2019-2-14.txt" />
         <option value="$PROJECT_DIR$/Tic tac toe game.js" />
-        <option value="$PROJECT_DIR$/Index.html" />
-        <option value="$PROJECT_DIR$/Home.css" />
         <option value="$PROJECT_DIR$/CONTACT.css" />
         <option value="$PROJECT_DIR$/ABOUTME.css" />
         <option value="$PROJECT_DIR$/PROJECTS.css" />
         <option value="$PROJECT_DIR$/RESUME.css" />
         <option value="$PROJECT_DIR$/SKILLS.css" />
-        <option value="$PROJECT_DIR$/WEEKLY.css" />
         <option value="$PROJECT_DIR$/AboutMe.html" />
         <option value="$PROJECT_DIR$/Skills.html" />
         <option value="$PROJECT_DIR$/Resume.html" />
         <option value="$PROJECT_DIR$/Contact.html" />
-        <option value="$PROJECT_DIR$/WeeklyRef.html" />
         <option value="$PROJECT_DIR$/Tic-Tac-Toe.html" />
-        <option value="$PROJECT_DIR$/Project Progress.txt" />
         <option value="$PROJECT_DIR$/2019-2-15.txt" />
+        <option value="$PROJECT_DIR$/Project Progress.txt" />
+        <option value="$PROJECT_DIR$/Index.html" />
+        <option value="$PROJECT_DIR$/Home.css" />
+        <option value="$PROJECT_DIR$/WeeklyRef.html" />
+        <option value="$PROJECT_DIR$/WEEKLY.css" />
       </list>
     </option>
   </component>
@@ -130,7 +155,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,15 +162,11 @@
               <item name="INdex" type="b2602c69:ProjectViewProjectNode" />
               <item name="project1-portfolio-LilPrice-Code" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="INdex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project1-portfolio-LilPrice-Code" type="462c0819:PsiDirectoryNode" />
-              <item name="Tic-Tac-Toe Game" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -180,19 +200,21 @@
       <option name="presentableId" value="Default" />
       <updated>1550000224709</updated>
       <workItem from="1550000228184" duration="23278000" />
-      <workItem from="1550157815694" duration="30430000" />
+      <workItem from="1550157815694" duration="30529000" />
+      <workItem from="1550489586728" duration="1289000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53708000" />
+    <option name="totallyTimeSpent" value="55096000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1600" height="810" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Learn" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.25225225" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.25546977" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3246951" />
@@ -238,20 +260,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resumejs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Progress.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Resumejs.js" />
+    <entry file="file://$PROJECT_DIR$/Progress.ts" />
     <entry file="file://$PROJECT_DIR$/PageLayout.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -266,13 +276,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Education.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Education.html" />
     <entry file="file://$PROJECT_DIR$/Projects.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -284,16 +288,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="39" column="41" lean-forward="true" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -322,20 +316,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="574">
           <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WEEKLY.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="664">
-          <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -374,13 +354,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tic-Tac-Toe.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -388,10 +361,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WeeklyRef.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -404,8 +380,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Project Progress.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="41" selection-start-line="41" selection-end-line="47" selection-end-column="25" />
+        <state relative-caret-position="599">
+          <caret line="55" column="21" lean-forward="true" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeeklyRef.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEEKLY.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
         </state>
       </provider>
     </entry>

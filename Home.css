@@ -1,8 +1,11 @@
 .container{
     display: grid;
     grid-template-areas:
+            "header" "header"
             "main" "main"
-            "header" "main";
+            "main" "main"
+            "footer" "footer";
+    grid-template-columns: auto;
 }
 header{
     background-color: #24ffeb;
